@@ -12,11 +12,6 @@ const nextConfig: NextConfig = {
     typescript: {
         ignoreBuildErrors: true,
     },
-    images: {
-        domains: [
-            "api.microlink.io", // Microlink Image Preview
-        ],
-    },
 };
 
 const outputConfig = withPlausibleProxy()(nextConfig);
