@@ -21,12 +21,12 @@ export default function GitExtensionDocs() {
                 </p>
                 <div className="mt-4"></div>
                 <div>
-                    <span className="text-blue-500">Go to Chrome Web Store</span> - <span className="text-white/80">I am broke and google charges me to add this extension to chrome web store, So get it from </span>
+                    <span className="text-white/80">I am broke and google charges me to add this extension to chrome web store, So get it from </span>
                     <a
                         href="https://github.com/MandavkarPranjal/quicktool"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="underline"
+                        className="text-blue-500 underline"
                     >
                         here
                     </a>
