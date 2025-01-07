@@ -13,10 +13,13 @@ const nextConfig: NextConfig = {
         ignoreBuildErrors: true,
     },
     images: {
-        domains: [
-            "api.microlink.io", // Microlink Image Preview
-        ],
-    },
+        remotePatterns: [
+            {
+                protocol: "https",
+                hostname: "cdn.buymeacoffee.com"
+            }
+        ]
+    }
 };
 
 const outputConfig = withPlausibleProxy()(nextConfig);
