@@ -17,7 +17,7 @@ export default function GitExtensionDocs() {
                     of a user or organization.
                 </p>
                 <p className="mt-1 inline-block rounded-full border border-white/30 bg-white/5 px-2 py-0.5 text-center text-sm text-white/60">
-                    btw, I am not affiliated with GitHub and I don&apos;t collect any of your data
+                    btw, I don&apos;t collect any of your data
                 </p>
                 <div className="mt-4"></div>
                 <div>
@@ -32,7 +32,7 @@ export default function GitExtensionDocs() {
                     </a>
                 </div>
                 <div className="mt-4"></div>
-                <div className="flex flex-row">
+                <div>
                     Also, you can support me by buying me a
                     <a
                         className="text-coffeeyellow"
@@ -67,7 +67,7 @@ export default function GitExtensionDocs() {
                 of a user or organization.
             </p>
             <p className="mt-1 inline-block rounded-full border border-white/30 bg-white/5 px-2 py-0.5 text-center text-sm text-white/60">
-                btw, I am not affiliated with GitHub and I don&apos;t collect any of your data
+                btw, I don&apos;t collect any of your data
             </p>
 
             <div className="mt-4"></div>
