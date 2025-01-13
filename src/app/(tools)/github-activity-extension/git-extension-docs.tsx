@@ -23,7 +23,7 @@ export default function GitExtensionDocs() {
                 <div>
                     <span className="text-white/80">I am broke and google charges me to add this extension to chrome web store, So get it from </span>
                     <a
-                        href="https://github.com/MandavkarPranjal/quicktool"
+                        href="https://github.com/MandavkarPranjal/github-activity-extension"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-blue-500 underline"
