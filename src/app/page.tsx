@@ -21,8 +21,11 @@ export default function Home() {
 
                 </div>
                 <div className="mt-4"></div>
-                <Link href="/github-activity-extension" className="text-blue-500 hover:underline">
+                <Link href="/github-activity-extension" title="extension that show user activity of repo owner" className="text-blue-500 hover:underline">
                     GitHub Activity Extension
+                </Link>
+                <Link href="https://whataduck.vercel.app/" title="better duckduckgo with AI" className="text-blue-500 hover:underline mt-1" target="_blank">
+                    WhataDuck
                 </Link>
             </main>
             <footer className="mt-8 text-center text-sm text-gray-500">
